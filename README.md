@@ -9,3 +9,5 @@
 2) 연습을 위한 1인용 게임도 가능
 
 3) 게임에 등장하는 아이템 설정 가능
+
+![first_blood_1](https://user-images.githubusercontent.com/42437315/190095523-c7661af2-a793-49f5-9f3a-f54deff4aef4.png)

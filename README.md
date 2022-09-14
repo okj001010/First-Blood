@@ -11,3 +11,8 @@
 3) 게임에 등장하는 아이템 설정 가능
 
 ![first_blood_1](https://user-images.githubusercontent.com/42437315/190095523-c7661af2-a793-49f5-9f3a-f54deff4aef4.png)
+![first_blood_2](https://user-images.githubusercontent.com/42437315/190095779-4cc46530-2916-40bc-8682-187bc1ad0c74.png)
+
+![first_blood_3](https://user-images.githubusercontent.com/42437315/190095898-179413a5-a970-40ca-b237-c255a1c6a378.png) 
+![first_blood_4](https://user-images.githubusercontent.com/42437315/190095954-6d3c03ff-3547-4a46-97a7-0d31dd32f041.png)
+ 
